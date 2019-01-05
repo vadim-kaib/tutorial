@@ -14,7 +14,7 @@ public class TestSamples {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-//		testLambdaExpressionExample1();
+		testLambdaExpressionExample1();
 //		testLambdaExpressionExample2();
 //		testLambdaExpressionExample3();
 //		testLambdaExpressionExample4();
