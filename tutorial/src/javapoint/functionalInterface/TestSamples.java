@@ -6,8 +6,8 @@ public class TestSamples {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-//		testFunctionalInterfaceExample1();
-//		testFunctionalInterfaceExample2();
+		testFunctionalInterfaceExample1();
+		testFunctionalInterfaceExample2();
 		testFunctionalInterfaceExample3();
 	}
 
