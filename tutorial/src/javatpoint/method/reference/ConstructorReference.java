@@ -3,7 +3,9 @@ package javatpoint.method.reference;
 interface IConstructorReference {
 	ConstructorReference getMessage(String msg);
 }
-/*comment*/
+/*
+ * ConstructorReference
+ * */
 public class ConstructorReference {
 	ConstructorReference(String msg) {
 		System.out.print(msg);
